@@ -1,7 +1,11 @@
 body{
-	background-image: url('../img/bg.jpeg');
+	background: #5daffb;
 }
 
 .container{
 	margin-top: 10%;
+}
+
+.btn{
+	background: #006d19;
 }
